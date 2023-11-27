@@ -1,0 +1,11 @@
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\bin\Debug\net5.0\ToDoAppNtierCommon.deps.json
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\bin\Debug\net5.0\ToDoAppNtierCommon.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\bin\Debug\net5.0\ToDoAppNtierCommon.pdb
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.AssemblyInfoInputs.cache
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.AssemblyInfo.cs
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.csproj.CoreCompileInputs.cache
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\refint\ToDoAppNtierCommon.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ToDoAppNtierCommon.pdb
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\ToDoAppNtier\ToDoAppNtierCommon\obj\Debug\net5.0\ref\ToDoAppNtierCommon.dll

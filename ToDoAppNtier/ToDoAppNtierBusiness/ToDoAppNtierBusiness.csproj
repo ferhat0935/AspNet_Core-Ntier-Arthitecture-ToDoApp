@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.8.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToDoAppNtierCommon\ToDoAppNtierCommon.csproj" />
+    <ProjectReference Include="..\ToDoAppNtierDataAccess\ToDoAppNtierDataAccess.csproj" />
+    <ProjectReference Include="..\ToDoAppNtierDtos\ToDoAppNtierDtos.csproj" />
+  </ItemGroup>
+
+</Project>
